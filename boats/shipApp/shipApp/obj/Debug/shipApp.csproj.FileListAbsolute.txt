@@ -1,0 +1,9 @@
+D:\Диск Google\ШАГ\GitHub\boats\shipApp\shipApp\bin\Debug\shipApp.exe.config
+D:\Диск Google\ШАГ\GitHub\boats\shipApp\shipApp\bin\Debug\shipApp.exe
+D:\Диск Google\ШАГ\GitHub\boats\shipApp\shipApp\bin\Debug\shipApp.pdb
+D:\Диск Google\ШАГ\GitHub\boats\shipApp\shipApp\obj\Debug\shipApp.csprojResolveAssemblyReference.cache
+D:\Диск Google\ШАГ\GitHub\boats\shipApp\shipApp\obj\Debug\shipApp.Form1.resources
+D:\Диск Google\ШАГ\GitHub\boats\shipApp\shipApp\obj\Debug\shipApp.Properties.Resources.resources
+D:\Диск Google\ШАГ\GitHub\boats\shipApp\shipApp\obj\Debug\shipApp.csproj.GenerateResource.Cache
+D:\Диск Google\ШАГ\GitHub\boats\shipApp\shipApp\obj\Debug\shipApp.exe
+D:\Диск Google\ШАГ\GitHub\boats\shipApp\shipApp\obj\Debug\shipApp.pdb
