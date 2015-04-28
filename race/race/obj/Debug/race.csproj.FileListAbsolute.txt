@@ -1,0 +1,9 @@
+D:\Диск Google\ШАГ\GitHub\race\race\bin\Debug\race.exe.config
+D:\Диск Google\ШАГ\GitHub\race\race\bin\Debug\race.exe
+D:\Диск Google\ШАГ\GitHub\race\race\bin\Debug\race.pdb
+D:\Диск Google\ШАГ\GitHub\race\race\obj\Debug\race.csprojResolveAssemblyReference.cache
+D:\Диск Google\ШАГ\GitHub\race\race\obj\Debug\race.Form1.resources
+D:\Диск Google\ШАГ\GitHub\race\race\obj\Debug\race.Properties.Resources.resources
+D:\Диск Google\ШАГ\GitHub\race\race\obj\Debug\race.csproj.GenerateResource.Cache
+D:\Диск Google\ШАГ\GitHub\race\race\obj\Debug\race.exe
+D:\Диск Google\ШАГ\GitHub\race\race\obj\Debug\race.pdb
